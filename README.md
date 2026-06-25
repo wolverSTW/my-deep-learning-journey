@@ -21,3 +21,10 @@
 ---
 
 _Latest Update: Lesson 1 Completed!_
+
+### 🔹 သင်ခန်းစာ (၂) - Multi-Layer Neural Network အခြေခံ
+
+- **ဖိုင်လမ်းကြောင်း:** `notebooks/02_neural_networks.ipynb`
+- **Logic အနှစ်ချုပ်:** \* Perceptron တွေကို အလွှာလိုက် စုစည်းပြီး **Input -> Hidden -> Output** ဆိုပြီး ချိတ်ဆက်ပုံကို လေ့လာခဲ့ပါတယ်။
+  - Matrix တွက်ချက်မှုတွေအတွက် **NumPy** ရဲ့ `np.dot()` ကို သုံးရပါတယ်။
+  - Deep Learning မှာ အသုံးအများဆုံး **ReLU Activation Function** ရဲ့ အလုပ်လုပ်ပုံ (မိုင်နပ်စ်တန်ဖိုးတွေကို သုညဖြစ်စေပြီး ပလပ်စ်တန်ဖိုးတွေကို အတိုင်းပေးထွက်ပုံ) ကို လက်တွေ့ကုဒ်ရေးပြီး စမ်းသပ်ခဲ့ပါတယ်။
